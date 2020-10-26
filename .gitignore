@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/BusinessLogicLayer/bin
+/BusinessLogicLayer/obj
+/ConsoleTemplatedCore/bin
+/ConsoleTemplatedCore/Log/log.txt
+/ConsoleTemplatedCore/Log/log.json
+/ConsoleTemplatedCore/obj
+/ConsoleTemplatedCore/Properties/PublishProfiles
+/DataAccessLayer/bin
+/DataAccessLayer/obj
+/Infrastructure Layer/bin
+/Infrastructure Layer/obj
