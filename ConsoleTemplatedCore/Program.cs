@@ -48,10 +48,11 @@ namespace ConsoleTemplatedCore
             //    var printService = ActivatorUtilities.GetServiceOrCreateInstance<IPrintService>(host.Services);
             mainBusinessLogic.Run();
 
-          //   mainBusinessLogic = ActivatorUtilities.GetServiceOrCreateInstance<IMainBusinessLogic>(host.Services);
+            //   mainBusinessLogic = ActivatorUtilities.GetServiceOrCreateInstance<IMainBusinessLogic>(host.Services);
 
-         //  mainBusinessLogic.Run();
+            //  mainBusinessLogic.Run();
             //   printService.Print("Hello service");
+            Log.Information("A P P    F I N I S H");
 
         }
 
